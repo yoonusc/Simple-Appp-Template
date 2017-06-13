@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+   ~ Copyright 2015 Rudson Lima
+
+   ~ Licensed under the Apache License, Version 2.0 (the "License");
+   ~ you may not use this file except in compliance with the License.
+   ~ You may obtain a copy of the License at
+
+   ~ http://www.apache.org/licenses/LICENSE-2.0
+
+   ~ Unless required by applicable law or agreed to in writing, software
+   ~ distributed under the License is distributed on an "AS IS" BASIS,
+   ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   ~ See the License for the specific language governing permissions and
+   ~ limitations under the License.
+-->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:padding="5dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:drawable/editbox_dropdown_light_frame"
+        android:padding="6dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_centerHorizontal="true"
+            android:layout_above="@+id/imageView2"
+            android:background="#f5dc0290"
+            android:padding="2dp"></LinearLayout>
+
+        <TextView
+            android:id="@+id/txtTitle"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:textColor="#f3fffcfb"
+            android:layout_marginTop="16dp"
+            android:text="Quasso Liberum"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textSize="25dp"
+            android:typeface="serif"
+            android:textStyle="bold"
+            android:paddingBottom="2dp" />
+
+        <ImageView
+
+            android:layout_width="259dp"
+            android:layout_height="250dp"
+            android:id="@+id/imageView2"
+            android:src="@mipmap/jm"
+            android:padding="1dp"
+            android:layout_gravity="center"
+            android:layout_row="0"
+            android:layout_column="12"
+            android:layout_below="@+id/txtTitle"
+            android:layout_centerHorizontal="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="We CEVians Proudly Present"
+            android:id="@+id/textView17"
+            android:layout_below="@+id/imageView2"
+            android:layout_centerHorizontal="true"
+            android:textColor="#b90b0b"
+            android:typeface="serif" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Quasso Liberum 5"
+            android:id="@+id/textView18"
+            android:layout_below="@+id/textView17"
+            android:layout_centerHorizontal="true"
+            android:textColor="#910404"
+            android:textStyle="bold"
+            android:typeface="serif" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="One of the Biggest Tech Fest"
+            android:id="@+id/textView19"
+            android:layout_below="@+id/textView18"
+            android:layout_centerHorizontal="true"
+            android:textColor="#b90b0b"
+            android:typeface="serif" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="in South India on 8th and 9th "
+            android:id="@+id/textView20"
+            android:layout_below="@+id/textView19"
+            android:layout_centerHorizontal="true"
+            android:textColor="#b90b0b"
+            android:typeface="serif" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="March 2016 at CEV"
+            android:id="@+id/textView21"
+            android:layout_below="@+id/textView20"
+            android:layout_centerHorizontal="true"
+            android:textColor="#b90b0b"
+            android:typeface="serif" />
+
+    </RelativeLayout>
+
+</RelativeLayout>

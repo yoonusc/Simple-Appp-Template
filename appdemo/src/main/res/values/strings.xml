@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<resources>
+    <string name="helo"> <html><head></head><body style="text-align:justify;text-size:20px">
+      <center>Quasso Liberum is one of the largest technical
+          fest in south India organized by the
+          students union of college of engineering Vadakara
+            on 8th and 9th March 2016</center>
+      </body></html> </string>
+    <string name="abc_action_bar_home_description">Navigate home</string>
+    <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
+    <string name="abc_action_bar_home_subtitle_description_format">%1$s, %2$s, %3$s</string>
+    <string name="abc_action_bar_up_description">Navigate up</string>
+    <string name="abc_action_menu_overflow_description">More options</string>
+    <string name="abc_action_mode_done">Done</string>
+    <string name="abc_activity_chooser_view_see_all">See all</string>
+    <string name="abc_activitychooserview_choose_application">Choose an app</string>
+    <string name="abc_capital_off">OFF</string>
+    <string name="abc_capital_on">ON</string>
+    <string name="abc_search_hint">Search…</string>
+    <string name="abc_searchview_description_clear">Clear query</string>
+    <string name="abc_searchview_description_query">Search query</string>
+    <string name="abc_searchview_description_search">Search</string>
+    <string name="abc_searchview_description_submit">Submit query</string>
+    <string name="abc_searchview_description_voice">Voice search</string>
+    <string name="abc_shareactionprovider_share_with">Share with</string>
+    <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
+    <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="add">Add</string>
+    <string name="app_name">Quasso Liberum</string>
+    <string name="categories">Events</string>
+    <string name="clear" />
+    <string name="drawer_close">Navigation drawer Close</string>
+    <string name="drawer_open">Open drawer navigation</string>
+    <string name="open_settings">Open settings</string>
+    <string name="open_user_profile">Open user profile</string>
+    <string name="search">Search</string>
+    <string name="settings">Coordinators</string>
+    <string name="sign_in">Sign in</string>
+    <string name="Cultural">Cultural</string>
+    <string name="Events">Robo</string>
+    <string name="News">Sponsors</string>
+    <string name="Not">Registration</string>
+    <string name="Proshow">Proshow</string>
+    <string name="Technical">Technical</string>
+    <string name="abt">About QL5</string>
+    <string name="appbar_scrolling_view_behavior">android.support.design.widget.AppBarLayout$ScrollingViewBehavior</string>
+    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="civil">ce</string>
+    <string name="computer">cs</string>
+    <string name="custom_header_not_created">Custom header was not created</string>
+    <string name="el">Ec-Ei</string>
+    <string name="enter_item_name_position">Enter the item name position</string>
+    <string name="findus">Contact Us</string>
+    <string name="header_not_created">Header was not created</string>
+    <string name="imgdesc">imgdesc</string>
+    <string name="list_hide_item">The list is empty or has not been created</string>
+    <string name="list_null_or_empty">List of null or empty names. Solution: mListNameItem = new ArrayList &lt;> (); mListNameItem.add (position, R.string.name);</string>
+    <string name="paper">Pres</string>
+    <string name="quiz">Quiz</string>
+    <string name="remove_selector_navigation">The option to remove the select is active. Please remove the removeSelectorNavigation method so you can use the setNewSelectorNavigation</string>
+    <string name="start_navigation_listener">You must start the .build(); in onInit() from your main Activity.</string>
+    <string name="title_null_or_empty">The title can not be null or empty</string>
+    <string name="value_icon_should_be_0">The value of the icon for a subHeader item should be 0</string>
+
+
+
+</resources>

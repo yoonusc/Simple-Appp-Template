@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="date">
+        <item>9-03-2016 10:30-1:30</item>
+        <item>8-03-2016 10:00 12:30</item>
+        <item>8-03-2016 2:00-4:00</item>
+        <item>9-03-2016 2:00-4:00</item>
+        <item>8-03-2016 12:30-2:30</item>
+    </string-array>
+    <string-array name="datece">
+        <item>8-03-2016 9:30-12:30</item>
+        <item>9-03-2016 10:00-1:00</item>
+        <item>8-03-2016 12:30-3:30</item>
+        <item>9-03-2016</item>
+    </string-array>
+    <string-array name="datecs">
+        <item>8-03-2016 9:30-10:30</item>
+        <item>8-03-2016 11:30-12:30</item>
+        <item>9-03-2016 9:30-10:30</item>
+    </string-array>
+    <string-array name="datecul">
+        <item>8-03-2016</item>
+        <item>8-03-2016</item>
+        <item>8-03-2016</item>
+        <item>9-03-2016</item>
+        <item>9-03-2016</item>
+    </string-array>
+    <string-array name="dateel">
+        <item>8-03-2016 9:30-11:30</item>
+        <item>9-03-2016 9:30-10:30</item>
+        <item>8-03-2016 12:00-2:00</item>
+        <item>9-03-2016 2:00-3:00</item>
+    </string-array>
+    <string-array name="datesp">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="eventcul">
+        <item>Dj Competition</item>
+        <item>Solo Song</item>
+        <item>Western Dance</item>
+        <item>Photography Contest</item>
+    </string-array>
+    <string-array name="events">
+        <item>Web Designing</item>
+        <item>Code Debugging</item>
+        <item>Coding</item>
+    </string-array>
+    <string-array name="eventsce">
+        <item>Town Planing</item>
+        <item>Tower Design</item>
+        <item>Cadd Design</item>
+        <item>Bridge Design</item>
+    </string-array>
+    <string-array name="eventsel">
+        <item>Circuit Design</item>
+        <item>Circuit Debugging</item>
+        <item>Bomb Diffusing</item>
+        <item>Best Electrician</item>
+    </string-array>
+    <array name="ico">
+        <item>@drawable/call</item>
+    </array>
+    <array name="iconcul">
+        <item>@drawable/dj</item>
+        <item>@drawable/singer</item>
+        <item>@drawable/wr</item>
+        <item>@drawable/cam</item>
+    </array>
+    <array name="icons">
+        <item>@drawable/war</item>
+        <item>@drawable/fol</item>
+        <item>@drawable/obj</item>
+        <item>@drawable/robw</item>
+        <item>@drawable/dethra</item>
+    </array>
+    <array name="iconsce">
+        <item>@drawable/to</item>
+        <item>@drawable/tw</item>
+        <item>@drawable/cad</item>
+        <item>@drawable/brd</item>
+    </array>
+    <array name="iconscs">
+        <item>@drawable/we</item>
+        <item>@drawable/de</item>
+        <item>@drawable/we</item>
+    </array>
+    <array name="iconsel">
+        <item>@drawable/ff</item>
+        <item>@drawable/debg</item>
+        <item>@drawable/bombb</item>
+        <item>@drawable/elecc</item>
+    </array>
+    <array name="iconsp">
+        <item>@drawable/investo</item>
+        <item>@drawable/tr</item>
+        <item>@drawable/image</item>
+        <item>@drawable/image2</item>
+        <item>@drawable/image3</item>
+    </array>
+    <string-array name="name">
+        <item>MITHUN S6EEE</item>
+        <item>ADHUN S8EC</item>
+        <item>SREERAJ S6EC</item>
+        <item>HAFSAL S6EI</item>
+        <item>JITHIN S6EC</item>
+        <item>NIKHIL S6IT</item>
+        <item>AKHIL K MCA</item>
+        <item>SAFAN MCA</item>
+        <item>ADITYA S8CE</item>
+        <item>ADITYA S8CE</item>
+        <item>VYSHAKH S8CE</item>
+        <item>VYSHAKH S8CE</item>
+        <item>MANISHA S6EC</item>
+        <item>CHITHIRA S6EC</item>
+        <item>VISHNU S8EEE</item>
+        <item>ANOOP S8EEE</item>
+        <item>SREELAKSHMI S8CE</item>
+        <item>YASIR S6CE</item>
+    </string-array>
+    <string-array name="pgm">
+        <item>Robo War</item>
+        <item>Line Follower</item>
+        <item>Object Avoider</item>
+        <item>Pick and Place</item>
+        <item>Dirt Racer</item>
+        <item>Web Designing</item>
+        <item>Code Debugging</item>
+        <item>Coding</item>
+        <item>Town Planing</item>
+        <item>Tower Design</item>
+        <item>Cad Design</item>
+        <item>Bridge Design</item>
+        <item>Circuit Design</item>
+        <item>Circuit Debugging</item>
+        <item>Bomb Diffusing</item>
+        <item>Best Electrician</item>
+        <item>Paper Presentation</item>
+        <item>Quiz</item>
+    </string-array>
+    <string-array name="phone">
+        <item>7736821107</item>
+        <item>9048277728</item>
+        <item>8129221777</item>
+        <item>9746749504</item>
+        <item>9847971459</item>
+        <item></item>
+        <item>8547579527</item>
+        <item>9645296121</item>
+        <item>9447740583</item>
+        <item>9447740583</item>
+        <item>9645955235</item>
+        <item>9645955235</item>
+        <item>8086450883</item>
+        <item>9496755081</item>
+        <item>9447314720</item>
+        <item>9562527791</item>
+        <item>9400344955</item>
+        <item></item>
+    </string-array>
+    <string-array name="prizcul">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="prize">
+        <item>Prize 10000 1st,5000 2nd</item>
+        <item>Prize 6000 1st4,4000 2nd</item>
+        <item>Prize 6000 1st,4000 2nd</item>
+        <item>Prize 6000 1st,4000 2nd</item>
+        <item>Prize 6000 1st,4000 2nd</item>
+    </string-array>
+    <string-array name="prizece">
+        <item>Prize 3000 1st,2000 2nd</item>
+        <item>Prize 3000 1st,2000 2nd</item>
+        <item>Prize 3000 1st,2000 2nd</item>
+        <item>Prize 3000 1st,2000 2nd</item>
+    </string-array>
+    <string-array name="prizecs">
+        <item>Prize 3000 1st,2000 2nd</item>
+        <item>Prize 3000 1st,2000 2nd</item>
+        <item>Prize 3000 1st,2000 2nd</item>
+    </string-array>
+    <string-array name="prizeel">
+        <item>Prize 3000 1st,2000 2nd</item>
+        <item>Prize 3000 1st,2000 2nd</item>
+        <item>Prize 3000 1st,2000 2nd</item>
+        <item>Prize 3000 1st,2000 2nd</item>
+    </string-array>
+    <string-array name="prsp">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+    <string-array name="sp">
+        <item>INVESTO</item>
+        <item>Tranquil Studio</item>
+        <item>KALYAN</item>
+        <item>FOCUZ COMPUTERS</item>
+        <item>BAJAJ</item>
+    </string-array>
+    <string-array name="titles">
+        <item>Robo War</item>
+        <item>Line Follower</item>
+        <item>Object Avoider</item>
+        <item>Pick and Place</item>
+        <item>Dirt Racer</item>
+    </string-array>
+
+
+
+</resources>
